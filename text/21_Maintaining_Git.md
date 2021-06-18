@@ -44,7 +44,7 @@ still exist in the history. If you accidentally commit a large file, you should
 try to fix it as soon as possible.
 
 To delete any file (large, sensitive, etc.) completely from the repository, you
-you may need to modify the history by deleting the file from every commit that
+may need to modify the history by deleting the file from every commit that
 contains it:
 
 1. Since small mistakes rewriting Git history can corrupt your version control,
